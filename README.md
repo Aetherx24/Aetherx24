@@ -1,4 +1,4 @@
-# <img src="https://raw.githubcontent.com/MartinHeinz/master/wave.gif" width="30px" height="30px"> Hi there, I'm Muhammad Iqbal Maulana! 👋
+# <img src="https://raw.githubusercontent.com/MartinHeinz/master/wave.gif" width="30px" height="30px"> Hi there, I'm Muhammad Iqbal Maulana! 👋
 
 <!--
 **Aetherx24/Aetherx24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
